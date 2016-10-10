@@ -113,6 +113,7 @@ return array (
   'Asia/Kashgar' => 'Asia/Urumqi',
   'Asia/Katmandu' => 'Asia/Kathmandu',
   'Asia/Macao' => 'Asia/Macau',
+  'Asia/Rangoon' => 'Asia/Yangon',
   'Asia/Saigon' => 'Asia/Ho_Chi_Minh',
   'Asia/Tel_Aviv' => 'Asia/Jerusalem',
   'Asia/Thimbu' => 'Asia/Thimphu',

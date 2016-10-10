@@ -1,6 +1,6 @@
 {
   "name": "celest/tzdata",
-  "description": "Timezone data",
+  "description": "Timezone data for Celest based on IANA's time zone database.",
   "license": "GPL-2.0",
   "authors": [
     {
@@ -11,6 +11,11 @@
   "autoload": {
     "psr-4": {
       "Celest\\TzData\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
     }
   }
 }
